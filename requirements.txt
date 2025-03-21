@@ -1,0 +1,3 @@
+Playwright
+pytest
+# Recommended: pip install pytest_playwright
